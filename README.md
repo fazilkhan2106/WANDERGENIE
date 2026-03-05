@@ -97,7 +97,7 @@ The application uses APIs to communicate between the frontend and backend, ensur
 ## API Communication
 
 - Axios
-- REST APIs
+- Google APIs
 
 ---
 
