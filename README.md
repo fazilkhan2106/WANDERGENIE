@@ -1,4 +1,4 @@
-# WANDERGENIE – AI Travel Planner
+# WanderGenie – AI Travel Planner
 
 ## 📌 Overview
 
@@ -208,16 +208,14 @@ Future improvements planned for WanderGenie include:
 
 ---
 
-# 🎓 Academic Purpose
+# 🙏 Credits
 
-This project was developed as part of the **Master of Computer Applications (MCA)** program under **Bengaluru North University**.
+This project was inspired and guided by the tutorial created by **Sujan Anand**.
 
-The project demonstrates the practical implementation of **full-stack development concepts**, including:
+Special thanks for the helpful guidance and learning resources.
 
-- Mobile application development
-- Backend API design
-- Database integration
-- Real-world problem solving
+🎥 YouTube Tutorial:  
+https://www.youtube.com/watch?v=K1MK8_QMOiM&t=12137s
 
 ---
 
