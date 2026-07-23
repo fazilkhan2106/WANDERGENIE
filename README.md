@@ -194,7 +194,33 @@ Benefits include:
 ✔ Works across multiple devices  
 
 ---
+## 📸 Project Screenshots
 
+### 🏠 Sign In
+![Sign In](Images/Image1.jpeg)
+
+### 🏠 Sign Up
+![Sign Up](Images/Image2.jpeg)
+
+### 🏠 Verification Page
+![Verify Page](Images/Image3.jpeg)
+
+### 🏠 Home Page
+![Home Page](Images/Image4.jpeg)
+
+### 🗺️ Guide Page
+![Guide Page](Images/Image5.jpeg)
+
+### 📍 Destination and Itinerary Details
+![Destination and Itinerary Details](Images/Image6.jpeg)
+
+### 📌 Interactive Map
+![Interactive Map](Images/Image7.jpeg)
+
+### ⭐ Profile and Saved Trips
+![Profile and Saved Trips](Images/Image7.jpeg)
+
+---
 # 🔮 Future Enhancements
 
 Future improvements planned for WanderGenie include:
