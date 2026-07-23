@@ -196,9 +196,9 @@ Benefits include:
 ---
 ## 📸 Project video and Screenshots
 
-## 🎥 Demo Video
+## 🎥 Project Demo
 
-Click here to watch: [Demo Video](Images/WanderGenieVideo.mp4)
+[![Watch the Demo](Images/DemoThumbnail.jpeg)](https://youtu.be/67bV3hFHYjU)
 
 ### 🏠 Sign In
 ![Sign In](Images/Image1.jpeg)
