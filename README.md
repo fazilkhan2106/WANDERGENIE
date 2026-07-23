@@ -194,7 +194,11 @@ Benefits include:
 ✔ Works across multiple devices  
 
 ---
-## 📸 Project Screenshots
+## 📸 Project video and Screenshots
+
+## 🎥 Demo Video
+
+Click here to watch: [Demo Video](Images/WanderGenieVideo.mp4)
 
 ### 🏠 Sign In
 ![Sign In](Images/Image1.jpeg)
