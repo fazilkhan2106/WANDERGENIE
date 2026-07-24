@@ -201,28 +201,28 @@ Benefits include:
 [![Watch the Demo](Images/DemoThumbnail.jpeg)](https://youtu.be/67bV3hFHYjU)
 
 ### 🏠 Sign In
-![Sign In](Images/Image1.jpeg)
+![Sign In](Images/Image8.jpeg)
 
 ### 🏠 Sign Up
-![Sign Up](Images/Image2.jpeg)
+![Sign Up](Images/Image7.jpeg)
 
 ### 🏠 Verification Page
-![Verify Page](Images/Image3.jpeg)
+![Verify Page](Images/Image6.jpeg)
 
 ### 🏠 Home Page
-![Home Page](Images/Image4.jpeg)
+![Home Page](Images/Image5.jpeg)
 
 ### 🗺️ Guide Page
-![Guide Page](Images/Image5.jpeg)
+![Guide Page](Images/Image4.jpeg)
 
 ### 📍 Destination and Itinerary Details
-![Destination and Itinerary Details](Images/Image6.jpeg)
+![Destination and Itinerary Details](Images/Image3.jpeg)
 
 ### 📌 Interactive Map
-![Interactive Map](Images/Image7.jpeg)
+![Interactive Map](Images/Image2.jpeg)
 
 ### ⭐ Profile and Saved Trips
-![Profile and Saved Trips](Images/Image7.jpeg)
+![Profile and Saved Trips](Images/Image1.jpeg)
 
 ---
 # 🔮 Future Enhancements
