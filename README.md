@@ -200,13 +200,13 @@ Benefits include:
 
 [![Watch the Demo](Images/DemoThumbnail.jpeg)](https://youtu.be/67bV3hFHYjU)
 
-### 🏠 Sign In
+###  Sign In
 ![Sign In](Images/Image8.jpeg)
 
-### 🏠 Sign Up
+###  Sign Up
 ![Sign Up](Images/Image7.jpeg)
 
-### 🏠 Verification Page
+###  Verification Page
 ![Verify Page](Images/Image6.jpeg)
 
 ### 🏠 Home Page
